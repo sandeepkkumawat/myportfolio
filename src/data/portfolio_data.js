@@ -12,7 +12,7 @@ export const portfolioData = {
     email: "m25bbe007@iitj.ac.in",
     phone: "+91-8562013985",
     linkedin: "https://www.linkedin.com/in/sandeep-kumar-kumawat-797464345/",
-    github: "https://github.com/sandeepkumar-kumawat",
+    github: "https://github.com/sandeepkkumawat",
     cv: "/Sandeep_Kumar_Kumawat_CV.pdf",
     photo: "/sandeep-kumar-kumawat.jpg"
   },
